@@ -1,4 +1,5 @@
-
+- https://community.dynamics.com/crm/b/govandthecity/posts/devops-for-microsoft-dynamics
+- https://mohamedradwan.com/2018/04/04/devops-for-microsoft-dynamics/
 # Introduction
 Please watch the following video to get a high level overview of this project:
 
