@@ -1,5 +1,6 @@
 - https://community.dynamics.com/crm/b/govandthecity/posts/devops-for-microsoft-dynamics
 - https://mohamedradwan.com/2018/04/04/devops-for-microsoft-dynamics/
+- FLOW - https://pwmather.wordpress.com/2019/09/07/projectonline-and-azuredevops-integration-using-microsoftflow-office365-ppm-azureboards-msproject-powerplatform-projectmanagement/
 # Introduction
 Please watch the following video to get a high level overview of this project:
 
