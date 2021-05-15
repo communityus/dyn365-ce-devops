@@ -1,6 +1,7 @@
 - https://community.dynamics.com/crm/b/govandthecity/posts/devops-for-microsoft-dynamics
 - https://mohamedradwan.com/2018/04/04/devops-for-microsoft-dynamics/
 - FLOW - https://pwmather.wordpress.com/2019/09/07/projectonline-and-azuredevops-integration-using-microsoftflow-office365-ppm-azureboards-msproject-powerplatform-projectmanagement/
+- FLOW - https://flow.microsoft.com/en-us/galleries/public/templates/1f309980ed8911e6a0e7f98291dcd11a/create-a-sharepoint-list-item-when-an-azure-devops-work-item-is-created/
 # Introduction
 Please watch the following video to get a high level overview of this project:
 
